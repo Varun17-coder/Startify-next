@@ -1,3 +1,4 @@
+// in the Layout.tx file of (root)
 import Link from "next/link"
 import Image from "next/image"
 import { auth ,signOut,signIn } from "@/auth" 
